@@ -4,4 +4,4 @@
 
 ## Here is how it works : 
 
-![ Alt text](name-of-gif-file. gif) / ! [](name-of-gif-file. gif)
+![ Alt text](gif. gif) / ! [](gif. gif)
