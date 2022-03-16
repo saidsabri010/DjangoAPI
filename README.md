@@ -4,4 +4,4 @@
 
 ## Here is how it works : 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/gif.gif)
+![grab-landing-page](https://github.com/saidsabri010/DjangoAPI/blob/master/gif.gif)
