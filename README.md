@@ -4,4 +4,4 @@
 
 ## Here is how it works : 
 
-![ Alt text](gif. gif) / ! [](gif. gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/gif.gif)
